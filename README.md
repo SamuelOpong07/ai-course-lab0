@@ -6,4 +6,4 @@
 # Name: Samuel Asare Opong
 # StudentID: 01432028
 
-# Description: This repository will contain all the necessary resources and labs required for this course. 
+# Description: This repository will contain all the necessary resources required for lab0. 
